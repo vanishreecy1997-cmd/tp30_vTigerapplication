@@ -6,6 +6,7 @@ public class ForkedClass1 {
 		// TODO Auto-generated method stub
 System.out.println("--Forked1--");
 System.out.println("forked2");
+System.out.println("aaaaa");
 	}
 
 }
